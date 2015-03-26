@@ -1,0 +1,5 @@
+ENGN3226 Digital Communication
+
+HLab1:会出现inverting的情况
+因为adder module会invert信号。如果没接第二个adder，那么输出与输入就反向了。
+在本实验中用了两个adder，那么输出与输入就一致了。
