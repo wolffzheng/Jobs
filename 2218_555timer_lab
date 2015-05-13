@@ -1,0 +1,5 @@
+For 555 timer,because of die shrinking, it is a good practice to 
+put de-coupling cap for +15V, and put 10nF between pin 5 and ground.
+
+This semester 2015, we got TI and st 555 timer. For st 555 timer,if ignoring
+10nF,it can work;but it doesn't work for TI 555 chips. 
